@@ -6,5 +6,5 @@
 
 <div align="center">
   <img height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=F1ru14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    src="https:///api?username=F1ru14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
