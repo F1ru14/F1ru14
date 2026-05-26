@@ -1,9 +1,10 @@
-<h1 align ="center">Hello There<h1>
+<h1 align="center">Hello There</h1>
 
 <div align="center">
   <img height="350" src="asset/picture2.jpg" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F1ru14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<div/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=F1ru14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</div>
